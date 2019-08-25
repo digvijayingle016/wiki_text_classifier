@@ -1,0 +1,7 @@
+bidirectional: false
+dense_layer_sizes: [64]
+dropout_prob: 0.5
+emb_size: !!python/tuple [30012, 100]
+hidden_size: 128
+n_lstm_layers: 1
+num_classes: 3

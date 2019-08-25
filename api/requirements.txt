@@ -1,0 +1,12 @@
+Flask==1.0.2
+Flask-Cors==3.0.7
+gensim==3.4.0
+numpy==1.16.3
+plac==0.9.6
+torch==1.1.0
+pytorch-nlp==0.4.1
+requests==2.21.0
+scikit-learn==0.20.3
+PyYAML==5.1
+bs4==0.0.1
+lxml==4.4.0
